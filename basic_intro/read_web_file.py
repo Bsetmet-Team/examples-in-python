@@ -1,4 +1,6 @@
 #! /usr/bin/python3
+# Run this script directly from github by passing this directly to the command line
+# curl -s https://raw.githubusercontent.com/Bsetmet-Team/examples-in-python/master/basic_intro/read_web_file.py | python3 -  
 # ------------------------------------------------------                                                                                                                # Make scripts independant with this method ... or create a package...
 # https://stackoverflow.com/a/44210735/1146659
 required = {
